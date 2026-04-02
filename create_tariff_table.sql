@@ -1,4 +1,4 @@
--- 关税 规则表
+-- 关税规则表
 CREATE TABLE tariff_rule (
     tariff_id VARCHAR(50) PRIMARY KEY,
     origin_country VARCHAR(50) NOT NULL,
